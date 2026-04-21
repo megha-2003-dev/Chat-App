@@ -1,33 +1,25 @@
-# 💬 Real-Time Chat Application
+## 🚀 Live Demo
+👉 https://chat-app-megha-2003-devs-projects.vercel.app/
 
-A real-time chat application built using React and Socket.io that enables instant messaging between multiple users with live updates.
+
+## 📌 Real-Time Chat Application
+
+A real-time chat application built using React, Node.js, and Socket.IO that allows multiple users to communicate instantly.
+
+### ✨ Features
+- Real-time messaging using WebSockets
+- Typing indicator
+- Multi-user support
+- Responsive UI with Tailwind CSS
+- Deployed using Vercel (Frontend) and Render (Backend)
 
 ---
 
-## 🚀 Features
+## 🛠 Tech Stack
+- Frontend: React, Vite, Tailwind CSS
+- Backend: Node.js, Express, Socket.IO
+- Deployment: Vercel + Render
 
-* Real-time messaging using Socket.io
-* Username-based chat system
-* Live typing indicator
-* Auto-scroll to latest messages
-* Press Enter to send messages
-* Clean and responsive UI (Tailwind CSS)
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-* React (Vite)
-* Tailwind CSS
-* Socket.io-client
-
-**Backend**
-
-* Node.js
-* Express.js
-* Socket.io
 
 ---
 
