@@ -1,5 +1,5 @@
 
-import ChatPage from './pages/ChatPage';
+import ChatPage from './pages/ChatPage.jsx';
 
 function App() {
 
